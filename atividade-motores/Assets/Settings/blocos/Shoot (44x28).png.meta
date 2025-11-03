@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: 8c81865351d104a42adfa3705ae76861
+guid: 49ed1ef8905e0a748bc780e1ad9ea9d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -284007684338051874
-    second: Attack (78x58)_0
+      213: 5327387930782927702
+    second: Shoot (44x28)_0
   - first:
-      213: -1349876022115668649
-    second: Attack (78x58)_1
+      213: -1178982728702096205
+    second: Shoot (44x28)_1
   - first:
-      213: 5505932642739978319
-    second: Attack (78x58)_2
+      213: 6160380614089784527
+    second: Shoot (44x28)_2
   - first:
-      213: 5216252306252847142
-    second: Attack (78x58)_3
+      213: -1011549835531733501
+    second: Shoot (44x28)_3
   - first:
-      213: 8622396227195235437
-    second: Attack (78x58)_4
+      213: -8429310584287139013
+    second: Shoot (44x28)_4
+  - first:
+      213: -23400841935912420
+    second: Shoot (44x28)_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,43 +111,105 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack (78x58)_0
+      name: Shoot (44x28)_0
       rect:
         serializedVersion: 2
         x: 18
+        y: 2
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b050be81faee940800000000000000
+      internalID: 5327387930782927702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot (44x28)_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc046b647963afe0800000000000000
+      internalID: -1178982728702096205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot (44x28)_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc360887811e7550800000000000000
+      internalID: 6160380614089784527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot (44x28)_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 8
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b684b8c046f1f0800000000000000
+      internalID: -1011549835531733501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot (44x28)_4
+      rect:
+        serializedVersion: 2
+        x: 94
         y: 0
-        width: 61
-        height: 53
+        width: 47
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed49c8d04800f0cf0800000000000000
-      internalID: -284007684338051874
+      spriteID: b3bef1a1fa2150b80800000000000000
+      internalID: -8429310584287139013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack (78x58)_1
+      name: Shoot (44x28)_5
       rect:
         serializedVersion: 2
-        x: 19
-        y: 16
-        width: 32
-        height: 42
+        x: 148
+        y: 2
+        width: 26
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,74 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75d6afae8e6444de0800000000000000
-      internalID: -1349876022115668649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack (78x58)_2
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 15
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f408ebf1190096c40800000000000000
-      internalID: 5505932642739978319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack (78x58)_3
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 13
-        width: 28
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 628530de5d9d36840800000000000000
-      internalID: 5216252306252847142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack (78x58)_4
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 13
-        width: 39
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6ce3aa6fa7e8a770800000000000000
-      internalID: 8622396227195235437
+      spriteID: c1207f8ee0ddcaff0800000000000000
+      internalID: -23400841935912420
       vertices: []
       indices: 
       edges: []
@@ -260,12 +259,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Attack (78x58)_0: -284007684338051874
-      Attack (78x58)_1: -1349876022115668649
-      Attack (78x58)_2: 5505932642739978319
-      Attack (78x58)_3: 5216252306252847142
-      Attack (78x58)_4: 8622396227195235437
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
