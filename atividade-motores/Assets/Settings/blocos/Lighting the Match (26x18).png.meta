@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 2b595314f0cb08a419ea9414f4b74e8a
+guid: 0dd06a556ed90a947ac2a8824b1854d7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5027722412210507872
-    second: Closiong (46x56)_0
+      213: 3650614159125041722
+    second: Lighting the Match (26x18)_0
+  - first:
+      213: 5126536057754478943
+    second: Lighting the Match (26x18)_1
+  - first:
+      213: 8706800131634881894
+    second: Lighting the Match (26x18)_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Closiong (46x56)_0
+      name: Lighting the Match (26x18)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 138
-        height: 56
+        width: 22
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 060d31955ee06c540800000000000000
-      internalID: 5027722412210507872
+      spriteID: a32d8a66c3699a230800000000000000
+      internalID: 3650614159125041722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lighting the Match (26x18)_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59efaa026d152740800000000000000
+      internalID: 5126536057754478943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lighting the Match (26x18)_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665eb60d694c4d870800000000000000
+      internalID: 8706800131634881894
       vertices: []
       indices: 
       edges: []
