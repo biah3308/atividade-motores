@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: blocos
+  m_Name: Decorations (32x32)_61 1
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 4723107735738678597, guid: ee8879a2725bc034d9ad5fba83f35a85, type: 3}
+  m_Sprite: {fileID: -1564330445, guid: 906aa21b00966874f8c9a40c25a84732, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
