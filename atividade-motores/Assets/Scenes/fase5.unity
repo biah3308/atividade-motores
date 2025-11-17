@@ -5281,6 +5281,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.37
       objectReference: {fileID: 0}
+    - target: {fileID: 3180554634832088448, guid: 6f0bf00b44335e34d893ae4af218f508, type: 3}
+      propertyPath: velocidade
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180554634832088448, guid: 6f0bf00b44335e34d893ae4af218f508, type: 3}
+      propertyPath: distanciaDeVisao
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3936684879313519178, guid: 6f0bf00b44335e34d893ae4af218f508, type: 3}
       propertyPath: m_Name
       value: pig com bomba (1)
