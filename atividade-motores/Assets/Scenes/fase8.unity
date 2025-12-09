@@ -13464,6 +13464,10 @@ PrefabInstance:
       propertyPath: 'pontosDePatrulha.Array.data[2]'
       value: 
       objectReference: {fileID: 1819066030}
+    - target: {fileID: 6212121714641385997, guid: c1b23a80aa6735c4e875dd75da2fa58b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 1404857307360525956, guid: c1b23a80aa6735c4e875dd75da2fa58b, type: 3}
